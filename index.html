@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Information Form</title>
+
+</head>
+
+<body>
+
+    <h2>User Registration Form</h2>
+
+    <form id="userForm">
+        <fieldset>
+            <legend>Personal Information</legend>
+
+            <label>Name</label>
+            <input type="text" id="name">
+
+            <label>Age</label>
+            <input type="number" id="age" min="1">
+
+            <label>Gender</label>
+            <label>
+                <input type="radio" name="gender" value="Male"> Male
+            </label>
+            <label>
+                <input type="radio" name="gender" value="Female"> Female
+            </label>
+            <label>
+                <input type="radio" name="gender" value="Other"> Other
+            </label>
+
+            <label>Country</label>
+            <select id="country">
+                <option value="">-- Select Country --</option>
+                <option>India</option>
+                <option>USA</option>
+                <option>Japan</option>
+                <option>China</option>
+            </select>
+        </fieldset>
+
+        <fieldset>
+            <legend>Technical Skills</legend>
+
+            <label>Technological Stack</label>
+
+            <label><input type="checkbox" value="HTML" class="tech"> HTML</label>
+            <label><input type="checkbox" value="CSS" class="tech"> CSS</label>
+            <label><input type="checkbox" value="JS" class="tech"> JS</label>
+            <label><input type="checkbox" value="React" class="tech"> React</label>
+            <label><input type="checkbox" value="React Native" class="tech"> React Native</label>
+        </fieldset>
+
+        <fieldset>
+            <legend>Contact Information</legend>
+
+            <label>Address</label>
+            <textarea id="address" rows="4"></textarea>
+
+            <label>Telephone</label>
+            <input type="tel" id="telephone" pattern="[0-9]{10}" placeholder="10 digit number">
+
+            <label>Email</label>
+            <input type="email" id="email">
+        </fieldset>
+
+        <div class="buttons">
+            <button type="reset">Reset</button>
+            <button type="submit">Submit</button>
+        </div>
+    </form>
+
+    <div id="output"></div>
+
+    <script>
+        document.getElementById("userForm").addEventListener("submit", function (e) {
+            e.preventDefault();
+
+            const name = document.getElementById("name").value.trim();
+            const age = document.getElementById("age").value;
+            const gender = document.querySelector('input[name="gender"]:checked').value;
+            const country = document.getElementById("country").value;
+            const address = document.getElementById("address").value.trim();
+            const telephone = document.getElementById("telephone").value.trim();
+            const email = document.getElementById("email").value.trim();
+
+            const techElements = document.getElementsByClassName("tech");
+            let techStack = [];
+            for (let t of techElements) {
+                if (t.checked) techStack.push(t.value);
+            }
+
+            if (!name || !age || !gender || !country || !address || !telephone || !email || techStack.length === 0) {
+                alert("All fields are mandatory.");
+                return;
+            }
+
+            if (isNaN(age) || age <= 0) {
+                alert("Age must be a valid number.");
+                return;
+            }
+
+            if (!/^\d{10}$/.test(telephone)) {
+                alert("Telephone must be a 10-digit number.");
+                return;
+            }
+
+            if (!/^\S+@\S+\.\S+$/.test(email)) {
+                alert("Invalid email format.");
+                return;
+            }
+
+            document.getElementById("output").innerHTML = `
+            <h3>Submitted Data</h3>
+            <table>
+                <tr><th>Field</th><th>Value</th></tr>
+                <tr><td>Name</td><td>${name}</td></tr>
+                <tr><td>Age</td><td>${age}</td></tr>
+                <tr><td>Gender</td><td>${gender}</td></tr>
+                <tr><td>Country</td><td>${country}</td></tr>
+                <tr><td>Tech Stack</td><td>${techStack.join(", ")}</td></tr>
+                <tr><td>Address</td><td>${address.replace(/\n/g, "<br>")}</td></tr>
+                <tr><td>Telephone</td><td>${telephone}</td></tr>
+                <tr><td>Email</td><td>${email}</td></tr>
+            </table>
+        `;
+        });
+    </script>
+
+</body>
+
+</html>
