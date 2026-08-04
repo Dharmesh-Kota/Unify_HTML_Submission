@@ -1,0 +1,585 @@
+WEBVTT
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/12-0
+00:00:04.611 --> 00:00:06.771
+<v Rishabh Jain>So it was resolved overnight.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/13-0
+00:00:07.651 --> 00:00:08.211
+<v Conf-Manapad-FL9-Pax6-Teams>Okay.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/14-0
+00:00:08.131 --> 00:00:10.811
+<v Rishabh Jain>And the tags have been shared for
+deployment.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/16-0
+00:00:12.691 --> 00:00:16.291
+<v Conf-Manapad-FL9-Pax6-Teams>It has it kick-started or is it to be
+started?</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/19-0
+00:00:17.491 --> 00:00:21.652
+<v Rishabh Jain>So the tags have been shared for the
+deployment.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/18-0
+00:00:21.091 --> 00:00:21.571
+<v Conf-Manapad-FL9-Pax6-Teams>Okay.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/19-1
+00:00:21.652 --> 00:00:27.851
+<v Rishabh Jain>I don't know whether it has been deployed
+or not. Let me just cheque it.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/20-0
+00:00:35.171 --> 00:00:39.371
+<v Conf-Manapad-FL9-Pax6-Teams>If Vinod is coordinating,
+can you ask Vinod to join?</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/21-0
+00:00:40.291 --> 00:00:40.691
+<v Rishabh Jain>Yeah.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/22-0
+00:00:49.011 --> 00:00:53.304
+<v Rishabh Jain>So the tags are not deployed yet,
+but it is shared with Tekion team.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/22-1
+00:00:53.304 --> 00:00:55.731
+<v Rishabh Jain>But let me just ask Rowan also to join.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/23-0
+00:00:56.611 --> 00:01:01.423
+<v Conf-Manapad-FL9-Pax6-Teams>Sure, OK.
+Does the tag have data bricks connector</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/23-1
+00:01:01.423 --> 00:01:02.771
+<v Conf-Manapad-FL9-Pax6-Teams>settings also?</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/25-0
+00:01:05.171 --> 00:01:08.543
+<v Rishabh Jain>No,
+so Databricks is yet to be supported in</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/25-1
+00:01:08.543 --> 00:01:11.916
+<v Rishabh Jain>Enterprise context graph,
+but as discussed,</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/24-0
+00:01:11.091 --> 00:01:11.251
+<v Conf-Manapad-FL9-Pax6-Teams>Mm.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/25-2
+00:01:11.916 --> 00:01:17.511
+<v Rishabh Jain>we do have a support for, you know,
+as an indexing as a knowledge in the</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/25-3
+00:01:17.511 --> 00:01:17.971
+<v Rishabh Jain>agent.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/26-0
+00:01:19.491 --> 00:01:20.611
+<v Rishabh Jain>So...</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/27-0
+00:01:21.731 --> 00:01:24.971
+<v Rishabh Jain>Ohh, let me just, I,
+I also shared my screen and...</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/28-0
+00:01:23.771 --> 00:01:27.864
+<v Conf-Manapad-FL9-Pax6-Teams>Yeah, in the knowledge set,
+in the knowledge set, it will be there,</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/28-1
+00:01:27.864 --> 00:01:30.091
+<v Conf-Manapad-FL9-Pax6-Teams>but not as part of the context level.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/29-0
+00:01:31.811 --> 00:01:32.211
+<v Rishabh Jain>No.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/30-0
+00:01:33.331 --> 00:01:33.491
+<v Conf-Manapad-FL9-Pax6-Teams>Up.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/32-0
+00:01:34.051 --> 00:01:41.289
+<v Rishabh Jain>So, even like for the current tags also,
+the Jothi will do the deployment and 1 PM</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/31-0
+00:01:40.691 --> 00:01:40.851
+<v Conf-Manapad-FL9-Pax6-Teams>Mm.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/32-1
+00:01:41.289 --> 00:01:43.731
+<v Rishabh Jain>was the time that was given.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/33-0
+00:01:45.011 --> 00:01:45.811
+<v Conf-Manapad-FL9-Pax6-Teams>For deployment.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/34-0
+00:01:46.211 --> 00:01:46.931
+<v Rishabh Jain>Yes.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/35-0
+00:01:47.491 --> 00:01:52.440
+<v Conf-Manapad-FL9-Pax6-Teams>Okay, okay. Now,
+will the current tag have data bricks in</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/35-1
+00:01:52.440 --> 00:01:56.451
+<v Conf-Manapad-FL9-Pax6-Teams>the context graph or is it only for the
+agent?</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/36-0
+00:01:57.611 --> 00:01:58.531
+<v Conf-Manapad-FL9-Pax6-Teams>That's not it too.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/38-0
+00:01:59.691 --> 00:02:03.014
+<v Rishabh Jain>It, for now,
+Databricks is not supported in ECG,</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/38-1
+00:02:03.014 --> 00:02:07.286
+<v Rishabh Jain>in Enterprise context.
+It is only supported in knowledge for a</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/38-2
+00:02:07.286 --> 00:02:11.491
+<v Rishabh Jain>nation yet to be supported.
+It is it is in still development.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/37-0
+00:02:07.651 --> 00:02:08.011
+<v Conf-Manapad-FL9-Pax6-Teams>Okay.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/41-0
+00:02:14.051 --> 00:02:21.277
+<v Conf-Manapad-FL9-Pax6-Teams>So do we have any timeline on that?
+Because this, as per our plan rate,</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/41-1
+00:02:21.277 --> 00:02:25.091
+<v Conf-Manapad-FL9-Pax6-Teams>we wanted that to be deployed on 21st.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/40-0
+00:02:25.211 --> 00:02:25.331
+<v Rishabh Jain>Yeah.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/42-0
+00:02:26.331 --> 00:02:34.371
+<v Conf-Manapad-FL9-Pax6-Teams>so that we can play out for the
+connectivity and play data in this.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/43-0
+00:02:35.971 --> 00:02:36.491
+<v Rohan Deswal>No.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/44-0
+00:02:36.131 --> 00:02:36.851
+<v Rishabh Jain>Yeah, so...</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/47-0
+00:02:40.691 --> 00:02:45.398
+<v Rohan Deswal>Yes, hi Ravi. Sorry, I was late.
+So the data bricks timeline that we gave</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/45-0
+00:02:41.011 --> 00:02:41.491
+<v Rishabh Jain>Yes.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/47-1
+00:02:45.398 --> 00:02:48.451
+<v Rohan Deswal>us for development,
+the 23rd is the deployment.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/48-0
+00:02:52.691 --> 00:02:52.931
+<v Conf-Manapad-FL9-Pax6-Teams>No.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/49-0
+00:02:54.531 --> 00:02:56.371
+<v Conf-Manapad-FL9-Pax6-Teams>Let me share this to you.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/50-0
+00:02:56.971 --> 00:02:57.251
+<v Rohan Deswal>Yep.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/55-0
+00:02:58.771 --> 00:03:04.741
+<v Conf-Manapad-FL9-Pax6-Teams>So, as per this, the plan, right,
+so we have told that it must be</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/55-1
+00:03:04.741 --> 00:03:10.531
+<v Conf-Manapad-FL9-Pax6-Teams>provisioned by 21st July,
+and we'll try for the ingestion rate.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/52-0
+00:03:06.291 --> 00:03:06.531
+<v Rohan Deswal>Oh.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/56-0
+00:03:12.371 --> 00:03:12.771
+<v Conf-Manapad-FL9-Pax6-Teams>It.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/59-0
+00:03:14.291 --> 00:03:17.656
+<v Conf-Manapad-FL9-Pax6-Teams>No, that is why,
+because we want to try for in this end,</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/59-1
+00:03:17.656 --> 00:03:22.142
+<v Conf-Manapad-FL9-Pax6-Teams>if we face any issues on in this end,
+because the first time we are trying,</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/59-2
+00:03:22.142 --> 00:03:22.851
+<v Conf-Manapad-FL9-Pax6-Teams>that is why.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/63-0
+00:03:24.051 --> 00:03:28.594
+<v Rohan Deswal>OK, the notes are slightly misleading.
+Yeah, I should update this,</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/60-0
+00:03:24.131 --> 00:03:24.451
+<v Conf-Manapad-FL9-Pax6-Teams>Oh.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/63-1
+00:03:28.594 --> 00:03:33.952
+<v Rohan Deswal>but so we'll do the deployment on 23rd.
+We are doing the development part from</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/63-2
+00:03:33.952 --> 00:03:34.291
+<v Rohan Deswal>21st.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/67-0
+00:03:35.011 --> 00:03:38.296
+<v Rajavijayan Raja>Uh, Sricharan,
+can you capture a list of items slipped</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/64-0
+00:03:35.731 --> 00:03:35.771
+<v Rohan Deswal>I</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/67-1
+00:03:38.296 --> 00:03:42.180
+<v Rajavijayan Raja>here? So, 20th of July,
+the pre-prod deployment is not yet done.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/67-2
+00:03:42.180 --> 00:03:44.211
+<v Rajavijayan Raja>No, can you capture it is slipped?</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/74-0
+00:04:01.971 --> 00:04:02.691
+<v Rajavijayan Raja>Yeah, thanks.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/92-0
+00:04:40.051 --> 00:04:40.371
+<v Conf-Manapad-FL9-Pax6-Teams>Yeah.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/94-0
+00:04:43.971 --> 00:04:44.371
+<v Conf-Manapad-FL9-Pax6-Teams>B.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/95-0
+00:04:45.731 --> 00:04:48.371
+<v Conf-Manapad-FL9-Pax6-Teams>Anything else we have produced this?</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/97-0
+00:04:50.611 --> 00:04:51.731
+<v Conf-Manapad-FL9-Pax6-Teams>It's within guests.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/100-0
+00:04:54.771 --> 00:04:59.515
+<v Conf-Manapad-FL9-Pax6-Teams>Ohh, like the uh, similarly corrupting,
+so then based the position that he said</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/100-1
+00:04:59.515 --> 00:05:01.531
+<v Conf-Manapad-FL9-Pax6-Teams>he'd come back with, uh, go ahead.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/104-0
+00:05:02.371 --> 00:05:05.972
+<v Rohan Deswal>Yes, so Bharathi,
+we discussed with engineering regarding</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/102-0
+00:05:03.611 --> 00:05:04.291
+<v Conf-Manapad-FL9-Pax6-Teams>Thank you.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/104-1
+00:05:05.972 --> 00:05:10.442
+<v Rohan Deswal>an approach for this. So still,
+we are still recommending that we use a</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/103-0
+00:05:06.091 --> 00:05:06.211
+<v Conf-Manapad-FL9-Pax6-Teams>Right.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/104-2
+00:05:10.442 --> 00:05:15.409
+<v Rohan Deswal>single common graph and regarding data
+isolation so that node and assets do not</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/104-3
+00:05:15.409 --> 00:05:19.755
+<v Rohan Deswal>get merged between dealers.
+We have come up with an approach where we</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/104-4
+00:05:19.755 --> 00:05:22.611
+<v Rohan Deswal>can first do an initial classification
+layer.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/105-0
+00:05:22.891 --> 00:05:25.886
+<v Rohan Deswal>Where we take every asset and classify it
+as a dealer,</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/105-1
+00:05:25.886 --> 00:05:29.481
+<v Rohan Deswal>and then using that dealer tag,
+we propagate that along the graph</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/105-2
+00:05:29.481 --> 00:05:29.971
+<v Rohan Deswal>creation.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/106-0
+00:05:31.011 --> 00:05:36.100
+<v Rohan Deswal>So whenever an enrichment agent is
+performing an enrichment and connecting</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/106-1
+00:05:36.100 --> 00:05:40.850
+<v Rohan Deswal>it to any node on the graph,
+it will have that dealer tag into it and</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/106-2
+00:05:40.850 --> 00:05:44.379
+<v Rohan Deswal>then it will accordingly assign it.
+So due to this,</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/106-3
+00:05:44.379 --> 00:05:48.451
+<v Rohan Deswal>none of the data gets merged along
+dealers, across dealers.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/108-0
+00:05:49.571 --> 00:05:54.164
+<v Conf-Manapad-FL9-Pax6-Teams>OK, OK, fine. So, what we can do, right?
+So, to reduce this ambiguity,</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/107-0
+00:05:50.851 --> 00:05:51.091
+<v Rohan Deswal>Ohh.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/108-1
+00:05:54.164 --> 00:05:58.563
+<v Conf-Manapad-FL9-Pax6-Teams>and so what are steps, right?
+If you can share this PDF, right? So,</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/108-2
+00:05:58.563 --> 00:06:03.673
+<v Conf-Manapad-FL9-Pax6-Teams>how do we want to start with this graph,
+because we are anyway on the verge of</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/108-3
+00:06:03.673 --> 00:06:07.749
+<v Conf-Manapad-FL9-Pax6-Teams>deployment, right? So,
+next stage would be for the engineering</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/108-4
+00:06:07.749 --> 00:06:08.331
+<v Conf-Manapad-FL9-Pax6-Teams>solution.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/109-0
+00:06:08.531 --> 00:06:13.417
+<v Conf-Manapad-FL9-Pax6-Teams>Right, so if you can share a draught,
+it may not, it may not be perfect also,</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/109-1
+00:06:13.417 --> 00:06:16.548
+<v Conf-Manapad-FL9-Pax6-Teams>it's OK,
+but if you can share a plan on how do we</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/109-2
+00:06:16.548 --> 00:06:20.181
+<v Conf-Manapad-FL9-Pax6-Teams>want to tackle this and how the data
+addition we need to,</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/109-3
+00:06:20.181 --> 00:06:23.251
+<v Conf-Manapad-FL9-Pax6-Teams>we can have multiplayer picture and
+reduce this.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/111-0
+00:06:24.771 --> 00:06:26.971
+<v Rohan Deswal>Okay,
+definitely I will share that document.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/110-0
+00:06:27.851 --> 00:06:27.971
+<v Conf-Manapad-FL9-Pax6-Teams>Yeah.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/112-0
+00:06:31.171 --> 00:06:35.943
+<v Conf-Manapad-FL9-Pax6-Teams>So tomorrow's call, we can,
+before tomorrow's call, if you can share,</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/112-1
+00:06:35.943 --> 00:06:39.216
+<v Conf-Manapad-FL9-Pax6-Teams>right,
+we can also have a review on that and we</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/112-2
+00:06:39.216 --> 00:06:43.171
+<v Conf-Manapad-FL9-Pax6-Teams>can mainly discuss on the queries or any
+Q&amp;A of that.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/113-0
+00:06:44.131 --> 00:06:45.491
+<v Rohan Deswal>Yes, OK.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/114-0
+00:06:48.211 --> 00:06:48.611
+<v Rohan Deswal>Hold on.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/115-0
+00:06:52.451 --> 00:06:55.571
+<v Conf-Manapad-FL9-Pax6-Teams>Nothing from our side,
+Rohan and Harshita Uriarte.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/119-0
+00:06:59.971 --> 00:07:01.903
+<v Rohan Deswal>Yes,
+so I had some queries about the</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/119-1
+00:07:01.903 --> 00:07:05.767
+<v Rohan Deswal>Databricks part. So within Databricks,
+you would have a single catalogue,</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/119-2
+00:07:05.767 --> 00:07:08.901
+<v Rohan Deswal>and within that catalogue,
+all the tables are there, right?</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/119-3
+00:07:08.901 --> 00:07:11.251
+<v Rohan Deswal>Or do you are you using multiple
+catalogues?</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/118-0
+00:07:09.011 --> 00:07:09.811
+<v Conf-Manapad-FL9-Pax6-Teams>Correct, please.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/120-0
+00:07:12.691 --> 00:07:16.291
+<v Conf-Manapad-FL9-Pax6-Teams>No, for now,
+we are using only one catalogue.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/121-0
+00:07:16.931 --> 00:07:21.011
+<v Rohan Deswal>One catalogue and some number of schemas,
+or is that a single schema as well?</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/122-0
+00:07:24.451 --> 00:07:29.013
+<v Conf-Manapad-FL9-Pax6-Teams>How many of you have any idea about that,
+whether schema will be different or it</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/122-1
+00:07:29.013 --> 00:07:29.971
+<v Conf-Manapad-FL9-Pax6-Teams>will be the same?</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/123-0
+00:07:33.891 --> 00:07:38.349
+<v Aman Bansal>Not really sure about the underlying data
+we are going to be using,</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/123-1
+00:07:38.349 --> 00:07:42.611
+<v Aman Bansal>but we can assume like it can be spread
+across multiple schemas.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/124-0
+00:07:43.971 --> 00:07:46.821
+<v Conf-Manapad-FL9-Pax6-Teams>Because when initially when I spoke with
+Vijay,</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/124-1
+00:07:46.821 --> 00:07:49.552
+<v Conf-Manapad-FL9-Pax6-Teams>he told about gold and professional
+services.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/124-2
+00:07:49.552 --> 00:07:51.571
+<v Conf-Manapad-FL9-Pax6-Teams>I think gold is a catalogue thing.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/126-0
+00:07:51.891 --> 00:07:55.279
+<v Aman Bansal>Yes, schema is professional services.
+If we are just going to be consuming that,</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/125-0
+00:07:54.051 --> 00:07:54.251
+<v Conf-Manapad-FL9-Pax6-Teams>Up.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/126-1
+00:07:55.279 --> 00:07:56.451
+<v Aman Bansal>that's going to be just one.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/127-0
+00:07:57.571 --> 00:08:02.651
+<v Conf-Manapad-FL9-Pax6-Teams>OK, so I think streamers can be multiple.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/128-0
+00:08:03.331 --> 00:08:03.731
+<v Rohan Deswal>Okay.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/129-0
+00:08:04.531 --> 00:08:08.911
+<v Conf-Manapad-FL9-Pax6-Teams>We cannot always expect it in one to be
+in one screen, one screen, yeah,</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/129-1
+00:08:08.911 --> 00:08:09.811
+<v Conf-Manapad-FL9-Pax6-Teams>all take is 10.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/130-0
+00:08:10.531 --> 00:08:11.171
+<v Rohan Deswal>Yes, yes.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/131-0
+00:08:16.131 --> 00:08:17.091
+<v Rohan Deswal>OK, so.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/132-0
+00:08:19.171 --> 00:08:20.691
+<v Conf-Manapad-FL9-Pax6-Teams>Any other queries, Varun?</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/133-0
+00:08:21.571 --> 00:08:24.371
+<v Rohan Deswal>No, nothing right now. Thank you, Ravi.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/134-0
+00:08:24.651 --> 00:08:24.851
+<v Conf-Manapad-FL9-Pax6-Teams>Yeah.</v>
+
+23be43a4-f44c-4ec4-89f1-21493ec0ce69/135-0
+00:08:26.451 --> 00:08:27.051
+<v Conf-Manapad-FL9-Pax6-Teams>Thanks, Dean.</v>
